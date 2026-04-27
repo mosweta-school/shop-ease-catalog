@@ -56,7 +56,7 @@ mkdir shopease
    ```bash
    cd shopease
    ``` 
-4. **Clone the repository**
+4. **Clone the forked repository**
 ```bash
 git clone https://github.com/mosweta-school/shop-ease-catalog.git
 cd shop-ease-catalog
@@ -71,49 +71,49 @@ npm run dev
 ```
 
 ## 🎯 Usage
-Use the search bar to find products
-Click category buttons to filter items
-Click “Add to Cart” to add products
-View selected items in the cart panel
-Remove items or proceed to checkout
+- Use the search bar to find products
+- Click category buttons to filter items
+- Click “Add to Cart” to add products
+- View selected items in the cart panel
+- Remove items or proceed to checkout
 
 ## 📸 Screenshots
 
 <img width="1895" height="904" alt="image" src="https://github.com/user-attachments/assets/c313dd10-7a68-4974-ad45-424931ac66de" />
-search headphones
+## Search headphones
 <img width="1889" height="890" alt="image" src="https://github.com/user-attachments/assets/b9efcaba-6669-49dd-9c41-f3777ac67dbb" />
 
-## add to cart
+## Add to cart
 <img width="1900" height="834" alt="image" src="https://github.com/user-attachments/assets/be9cd739-15dd-40ec-84e8-fcf44bfc57a4" />
 
-## auto adds amount if you add another item
+## Auto adds amount if you add another item
 <img width="1897" height="847" alt="image" src="https://github.com/user-attachments/assets/c8fa56e0-72c8-49d1-9666-eab55a806c19" />
 
-## deducts if you remove item
+## Deducts if you remove item
 <img width="1900" height="811" alt="image" src="https://github.com/user-attachments/assets/bacc15c5-7eae-4e58-8d68-6835fdc2a897" />
 
 
-## can filter by category e.g Home Appliances
+## Can filter by category e.g Home Appliances
 <img width="1901" height="827" alt="image" src="https://github.com/user-attachments/assets/24954375-8316-42e6-ab71-2d5230c9af8b" />
 
 
 
 ## 🔮 Future Improvements
-🧾 Checkout system
-💳 Payment integration (e.g., Stripe / MPesa simulation)
-🔐 User authentication
-🛍️ Order history
-📦 Backend integration (Node.js / Firebase)
-🌐 API-based product loading
-🧠 Learning Outcomes
+- 🧾 Checkout system
+- 💳 Payment integration (e.g., Stripe / MPesa simulation)
+- 🔐 User authentication
+- 🛍️ Order history
+- 📦 Backend integration (Node.js / Firebase)
+- 🌐 API-based product loading
+- 🧠 Learning Outcomes
 
 ## This project demonstrates:
 
-React state management using useState
-Dynamic rendering and filtering
-Handling user input and events
-Building responsive layouts with Tailwind CSS
-Managing application logic for cart systems
+- React state management using useState
+- Dynamic rendering and filtering
+- Handling user input and events
+- Building responsive layouts with Tailwind CSS
+- Managing application logic for cart systems
 
 ## 👨‍💻 Author
 
