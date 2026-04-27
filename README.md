@@ -80,6 +80,7 @@ npm run dev
 ## 📸 Screenshots
 
 <img width="1895" height="904" alt="image" src="https://github.com/user-attachments/assets/c313dd10-7a68-4974-ad45-424931ac66de" />
+
 ## Search headphones
 <img width="1889" height="890" alt="image" src="https://github.com/user-attachments/assets/b9efcaba-6669-49dd-9c41-f3777ac67dbb" />
 
